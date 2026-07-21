@@ -25,7 +25,7 @@ Rating_Category (derived from the Rating column)
 - Content Rating
 - Genres
 
-## 📊 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 The following exploratory analyses were performed using Pandas:
 

@@ -25,6 +25,21 @@ Rating_Category (derived from the Rating column)
 - Content Rating
 - Genres
 
+## 📊 Exploratory Data Analysis (EDA)
+
+The following exploratory analyses were performed using Pandas:
+
+- Dataset Overview
+- Dataset Shape (Rows & Columns)
+- Column Information
+- Data Types Analysis
+- Missing Value Analysis
+- Summary Statistics
+- Target Variable Exploration (App Ratings)
+- Feature Analysis (Category, Reviews, Installs, Price, Type, Content Rating)
+- Basic Data Visualization
+- Key Observations and Insights  
+
 ## Three Key Observations
 
 ### Observation 1

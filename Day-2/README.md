@@ -93,7 +93,7 @@ The following visualizations were created:
 
 ### Customer Purchase Frequency
 
-![Purchase Frequency](images/purchase_frequency.png)
+![Purchase Frequency](images/customer_frequency.png)
 
 ---
 

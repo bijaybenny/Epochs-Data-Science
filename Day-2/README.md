@@ -73,6 +73,28 @@ The following visualizations were created:
 - Revenue by Product Category (Bar Chart)
 - Customer Purchase Frequency (Horizontal Bar Chart)
 
+## 📷 SQL Query Outputs
+
+### Top 10 Selling Products
+
+![Top Products](images/top_products.png)
+
+### Top 10 Customers by Revenue
+
+![Top Customers](images/top_customers.png)
+
+### Monthly Sales Trend
+
+![Monthly Sales](images/monthly_sales.png)
+
+### Revenue by Product Category
+
+![Category Revenue](images/category_revenue.png)
+
+### Customer Purchase Frequency
+
+![Purchase Frequency](images/purchase_frequency.png)
+
 ---
 
 # 🔍 Key Business Insights

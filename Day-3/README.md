@@ -149,7 +149,7 @@ The following analyses were performed during EDA:
 
 ## Mileage Outlier Detection
 
-![Mileage Boxplot](images/mileage_boxplot.png)
+![Mileage Boxplot](images/milage_boxplot.png)
 
 ---
 

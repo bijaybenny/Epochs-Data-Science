@@ -97,6 +97,67 @@ The following analyses were performed during EDA:
 
 ---
 
+# 📷 Analysis Screenshots
+
+## Dataset Information
+
+![Dataset Information](images/dataset_info.png)
+
+---
+
+## Missing Value Analysis
+
+![Missing Values](images/missing_values.png)
+
+---
+
+## Price Distribution
+
+![Price Distribution](images/price_distribution.png)
+
+---
+
+## Brand Distribution
+
+![Brand Distribution](images/brand_distribution.png)
+
+---
+
+## Fuel Type Distribution
+
+![Fuel Type](images/fuel_distribution.png)
+
+---
+
+## Transmission Distribution
+
+![Transmission](images/transmission_distribution.png)
+
+---
+
+## Correlation Heatmap
+
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+---
+
+## Price Outlier Detection
+
+![Price Boxplot](images/price_boxplot.png)
+
+---
+
+## Mileage Outlier Detection
+
+![Mileage Boxplot](images/mileage_boxplot.png)
+
+---
+
+## Engine Outlier Detection
+
+![Engine Boxplot](images/engine_boxplot.png)
+
+
 # 🧹 Data Quality Issues Identified
 
 The following issues were identified in the dataset:

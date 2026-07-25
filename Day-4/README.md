@@ -57,7 +57,7 @@ The following EDA steps were performed:
 
 ## 1. Top 10 Track Genres
 
-![Top Genres](images/fig1.png)
+![Top Genres](images/fig_1.png)
 
 ### Insight
 
@@ -69,7 +69,7 @@ The following EDA steps were performed:
 
 ## 2. Popularity Distribution
 
-![Popularity Distribution](images/fig2.png)
+![Popularity Distribution](images/fig_2.png)
 
 ### Insight
 
@@ -81,7 +81,7 @@ The following EDA steps were performed:
 
 ## 3. Danceability vs Energy
 
-![Danceability vs Energy](images/fig3.png)
+![Danceability vs Energy](images/fig_3.png)
 
 ### Insight
 
@@ -93,7 +93,7 @@ The following EDA steps were performed:
 
 ## 4. Average Popularity by Genre
 
-![Average Popularity](images/fig4.png)
+![Average Popularity](images/fig_4.png)
 
 ### Insight
 
@@ -105,7 +105,7 @@ The following EDA steps were performed:
 
 ## 5. Tempo Distribution
 
-![Tempo Distribution](images/fig5.png)
+![Tempo Distribution](images/fig_5.png)
 
 ### Insight
 
@@ -117,7 +117,7 @@ The following EDA steps were performed:
 
 ## 6. Explicit vs Non-Explicit Songs
 
-![Explicit Songs](images/fig6.png)
+![Explicit Songs](images/fig_6.png)
 
 ### Insight
 
